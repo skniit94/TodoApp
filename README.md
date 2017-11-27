@@ -18,6 +18,8 @@ $ cd TodoApp/
 
 $ npm install
 
+$ npm install mobx mobx-react mobx-state-tree --save
+
 ```
 
 #### To start the app
