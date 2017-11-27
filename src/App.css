@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+.input {
+  height: 60px !important;
+  font-size: 25px !important;
+  margin: 6px 2px 7px 0px !important;
+  background-color: #fafafa !important;
+  border: none !important;
+  font-weight: 100;
+  /* box-shadow: 0px 44px 35px 17px rgba(216, 216, 216,0.74) !important; */
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  border: none !important;
+  padding-left: 11px !important;
+  padding-right: 0px !important;
+  padding-top: 10px !important;
+  padding-bottom: 6px !important;
+  width: 400px;
+}
+
+.App-title {
+  font-size: 3em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.task {
+  height: 40px !important;
+  width: 411px;
+  border-width: 10px !important;
+  background-color: lightgray;
+  margin-bottom: 3px;
+  margin-left: 514px;
+}
